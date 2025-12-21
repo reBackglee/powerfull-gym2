@@ -24,4 +24,4 @@ Bu proje, bir spor salonu web sitesi için geliştirilen tek sayfalık responsiv
 
 ## 🚀 Canlı Demo (Live Preview)
 Projenin yayındaki haline buradan ulaşabilirsiniz:
-👉 **[Web Sitesini Ziyaret Et]((https://powerfull-gym2.netlify.app/))**
+👉 **[Web Sitesini Ziyaret Et]([(https://powerfull-gym2.netlify.app/))](https://powerfull-gym2.netlify.app/)**
