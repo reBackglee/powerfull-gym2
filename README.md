@@ -21,3 +21,7 @@ Bu proje, bir spor salonu web sitesi için geliştirilen tek sayfalık responsiv
 
 1. Repoyu klonlayın: `git clone https://github.com/kullaniciadi/powerfull-gym.git`
 2. Klasöre gidin ve `index.html` dosyasını tarayıcınızda açın.
+
+## 🚀 Canlı Demo (Live Preview)
+Projenin yayındaki haline buradan ulaşabilirsiniz:
+👉 **[Web Sitesini Ziyaret Et]((https://powerfull-gym2.netlify.app/))**
